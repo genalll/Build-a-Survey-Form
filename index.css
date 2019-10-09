@@ -1,0 +1,39 @@
+#survey-form {
+    margin: 0 auto; 
+    text-align: center;
+}
+
+#email{ 
+    margin-top:20px;
+}
+
+#number{ 
+    margin-top:20px;
+}
+
+#dropdown { margin-top:20px;
+
+}
+
+ul{
+    margin-top:20px;
+}
+
+#most-like{
+    margin-top:20px;
+    
+}
+
+#preferences{
+    margin-top:20px;
+    text-align: left;
+    margin-left: 40%;
+}
+
+#comments{  
+    margin-top:20px;
+}
+
+#submit {
+    margin-top:20px;
+}
